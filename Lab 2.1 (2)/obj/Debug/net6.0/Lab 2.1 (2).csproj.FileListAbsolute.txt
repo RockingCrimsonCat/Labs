@@ -1,0 +1,17 @@
+D:\МТ\Lab 2.1 (2)\bin\Debug\net6.0\Lab 2.1 (2).exe
+D:\МТ\Lab 2.1 (2)\bin\Debug\net6.0\Lab 2.1 (2).deps.json
+D:\МТ\Lab 2.1 (2)\bin\Debug\net6.0\Lab 2.1 (2).runtimeconfig.json
+D:\МТ\Lab 2.1 (2)\bin\Debug\net6.0\Lab 2.1 (2).dll
+D:\МТ\Lab 2.1 (2)\bin\Debug\net6.0\Lab 2.1 (2).pdb
+D:\МТ\Lab 2.1 (2)\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\МТ\Lab 2.1 (2)\obj\Debug\net6.0\Lab 2.1 (2).csproj.AssemblyReference.cache
+D:\МТ\Lab 2.1 (2)\obj\Debug\net6.0\Lab 2.1 (2).GeneratedMSBuildEditorConfig.editorconfig
+D:\МТ\Lab 2.1 (2)\obj\Debug\net6.0\Lab 2.1 (2).AssemblyInfoInputs.cache
+D:\МТ\Lab 2.1 (2)\obj\Debug\net6.0\Lab 2.1 (2).AssemblyInfo.cs
+D:\МТ\Lab 2.1 (2)\obj\Debug\net6.0\Lab 2.1 (2).csproj.CoreCompileInputs.cache
+D:\МТ\Lab 2.1 (2)\obj\Debug\net6.0\Lab 2.1 (2).csproj.CopyComplete
+D:\МТ\Lab 2.1 (2)\obj\Debug\net6.0\Lab 2.1 (2).dll
+D:\МТ\Lab 2.1 (2)\obj\Debug\net6.0\refint\Lab 2.1 (2).dll
+D:\МТ\Lab 2.1 (2)\obj\Debug\net6.0\Lab 2.1 (2).pdb
+D:\МТ\Lab 2.1 (2)\obj\Debug\net6.0\Lab 2.1 (2).genruntimeconfig.cache
+D:\МТ\Lab 2.1 (2)\obj\Debug\net6.0\ref\Lab 2.1 (2).dll

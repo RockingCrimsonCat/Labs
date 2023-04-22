@@ -81,5 +81,5 @@ void PrintDictionary (Dictionary<int, int> dictionary)
     StreamWriter sw = new StreamWriter(file);
     sw.Write(json);
     sw.Close();
-
+Console.WriteLine(" ");
 

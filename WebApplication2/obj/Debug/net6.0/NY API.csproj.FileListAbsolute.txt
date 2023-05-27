@@ -1,0 +1,34 @@
+D:\МТ\WebApplication2\bin\Debug\net6.0\appsettings.Development.json
+D:\МТ\WebApplication2\bin\Debug\net6.0\appsettings.json
+D:\МТ\WebApplication2\bin\Debug\net6.0\NY API.exe
+D:\МТ\WebApplication2\bin\Debug\net6.0\NY API.deps.json
+D:\МТ\WebApplication2\bin\Debug\net6.0\NY API.runtimeconfig.json
+D:\МТ\WebApplication2\bin\Debug\net6.0\NY API.dll
+D:\МТ\WebApplication2\bin\Debug\net6.0\NY API.pdb
+D:\МТ\WebApplication2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\МТ\WebApplication2\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\МТ\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\МТ\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\МТ\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\МТ\WebApplication2\obj\Debug\net6.0\NY API.csproj.AssemblyReference.cache
+D:\МТ\WebApplication2\obj\Debug\net6.0\NY API.GeneratedMSBuildEditorConfig.editorconfig
+D:\МТ\WebApplication2\obj\Debug\net6.0\NY API.AssemblyInfoInputs.cache
+D:\МТ\WebApplication2\obj\Debug\net6.0\NY API.AssemblyInfo.cs
+D:\МТ\WebApplication2\obj\Debug\net6.0\NY API.csproj.CoreCompileInputs.cache
+D:\МТ\WebApplication2\obj\Debug\net6.0\NY API.MvcApplicationPartsAssemblyInfo.cs
+D:\МТ\WebApplication2\obj\Debug\net6.0\NY API.MvcApplicationPartsAssemblyInfo.cache
+D:\МТ\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.NY API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\МТ\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.build.NY API.props
+D:\МТ\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NY API.props
+D:\МТ\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NY API.props
+D:\МТ\WebApplication2\obj\Debug\net6.0\staticwebassets.pack.json
+D:\МТ\WebApplication2\obj\Debug\net6.0\staticwebassets.build.json
+D:\МТ\WebApplication2\obj\Debug\net6.0\staticwebassets.development.json
+D:\МТ\WebApplication2\obj\Debug\net6.0\scopedcss\bundle\NY API.styles.css
+D:\МТ\WebApplication2\obj\Debug\net6.0\NY API.csproj.CopyComplete
+D:\МТ\WebApplication2\obj\Debug\net6.0\NY API.dll
+D:\МТ\WebApplication2\obj\Debug\net6.0\refint\NY API.dll
+D:\МТ\WebApplication2\obj\Debug\net6.0\NY API.pdb
+D:\МТ\WebApplication2\obj\Debug\net6.0\NY API.genruntimeconfig.cache
+D:\МТ\WebApplication2\obj\Debug\net6.0\ref\NY API.dll
+D:\МТ\WebApplication2\bin\Debug\net6.0\Npgsql.dll
